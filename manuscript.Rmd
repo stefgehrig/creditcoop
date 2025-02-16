@@ -371,7 +371,7 @@ The idea for this study emerged during S.G.'s time at the University of Exeter, 
 
 # Data and code {.unnumbered}
 
-https://github.com/stefgehrig/mficoop
+https://github.com/stefgehrig/creditcoop
 
 # Author contributions {.unnumbered}
 
