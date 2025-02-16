@@ -1,5 +1,5 @@
 ---
-title: "Societal norms of cooperation could foster microcredit repayment under group lending"
+title: "Societal norms of cooperation and microcredit repayment under group lending"
 author:
   - Stefan Gehrig^[Berlin, Germany; *stefan-gehrig@t-online.de*]
   - Thanos Kyritsis^[School of Psychology, University of Auckland, Auckland, New Zealand; *t.kyritsis@auckland.ac.nz*]
