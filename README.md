@@ -1,16 +1,16 @@
 This repository contains data and analysis code for the manuscript **"Societal norms of cooperation and microcredit repayment under group lending"**.
 
 <p align="center">
-<img src="https://github.com/stefgehrig/creditcoop/blob/main/outputs/fig_params_main.png" width="600">
+<img src="https://github.com/stefgehrig/creditcoop/blob/main/outputs/fig_params_main.png" width="500">
 </p>
 
 
 <p align="center">
-<img src="https://github.com/stefgehrig/creditcoop/blob/main/outputs/fig_predcoop_main.png" width="600">
+<img src="https://github.com/stefgehrig/creditcoop/blob/main/outputs/fig_predcoop_main.png" width="500">
 </p>
 
 <p align="center">
-<img src="https://github.com/stefgehrig/Creditcoop/blob/main/outputs/fig_varcomp_main.png" width="600">
+<img src="https://github.com/stefgehrig/Creditcoop/blob/main/outputs/fig_varcomp_main.png" width="500">
 </p>
 
 The manuscript can be found in the `manuscript.pdf` file.
