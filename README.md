@@ -1,4 +1,4 @@
-This repository contains data and analysis code for the manuscript **"Societal norms of cooperation and microcredit repayment under group lending"**.
+This repository contains data and analysis code for the unpublished manuscript **"Societal norms of cooperation and microcredit repayment under group lending"**.
 
 <p align="center">
 <img src="https://github.com/stefgehrig/creditcoop/blob/main/outputs/fig_params_main.png" width="500">
